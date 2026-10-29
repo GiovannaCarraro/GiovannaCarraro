@@ -18,7 +18,7 @@
 
 <div align="left">
 
-<a href="https://github.com/SEU-USUARIO">
+<a href="https://github.com/GiovannaCarraro">
   <img src="https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:SEU-EMAIL">
+<a href="mailto:giovannacarraro436@gmail.com">
   <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
